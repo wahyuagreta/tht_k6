@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Accident</string>
+    <string name="simpan">Simpan</string>
+    <string name="upload">Upload</string>
+    <string name="waktu_kecelakaan">Waktu Kecelakaan</string>
+    <string name="tipe_kecelakaan">Tipe Kecelakaan</string>
+    <string name="lokasi_kecelakaan">Lokasi Kecelakaan</string>
+    <string name="name">Name</string>
+    <string name="keterangan_korban">Keterangan Korban</string>
+</resources>
